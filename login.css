@@ -1,5 +1,7 @@
 .login{
+    margin-top: 10%;
     text-align: center;
+    
 }
 .pass{
     text-align: center;
@@ -7,7 +9,9 @@
 }
 .sub{
     text-align: center;
-    margin-top: 20px;
+  margin-top: 10px;
+  font-size: large;
+  font:bold;
     
     
 }
