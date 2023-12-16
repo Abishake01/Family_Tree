@@ -20,5 +20,7 @@
 }
 body{
     background-color: blue;
+    background-image: url(ok.webp);
+    background-position: center;
 }
  
