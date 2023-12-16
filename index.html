@@ -2,21 +2,18 @@
 <html>
 <head>
   <title>Login Page</title>
+  <link rel="stylesheet" href="login.css">
 </head>
 <body>
 
-  <h2>Login</h2>
+  <h2 class="login">Enter a Password</h2>
 
   <form id="loginForm">
-    <div>
-      <label for="username">Username:</label>
-      <input type="text" id="username" required>
-    </div>
-    <div>
-      <label for="password">Password:</label>
+     
+    <div class="pass"> 
       <input type="password" id="password" required>
     </div>
-    <div>
+    <div class="sub">
       <input type="submit" value="Login">
     </div>
   </form>
@@ -26,13 +23,13 @@
       event.preventDefault(); // Prevent the default form submission
       
       // Get the entered username and password
-      var username = document.getElementById('username').value;
+ 
       var password = document.getElementById('password').value;
 
       // Basic validation (replace with your own authentication logic)
-      if (username === 'your_username' && password === 'your_password') {
+      if (password === 'Family#00') {
         // Redirect to the main page upon successful login
-        window.location.href = 'index.html';
+        window.location.href = 'main.html';
       } else {
         alert('Invalid username or password. Please try again.');
       }

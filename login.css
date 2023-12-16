@@ -1,0 +1,20 @@
+.login{
+    text-align: center;
+}
+.pass{
+    text-align: center;
+    padding: 10px;
+}
+.sub{
+    text-align: center;
+    margin-top: 20px;
+    
+    
+}
+.sub:hover{
+    color: blue
+}
+body{
+    background-color: blue;
+}
+ 
