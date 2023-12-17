@@ -10,6 +10,7 @@
 .sub{
     text-align: center;
   margin-top: 10px;
+ 
   font-size: large;
   font:bold;
     
@@ -20,7 +21,8 @@
 }
 body{
     background-color: blue;
-    background-image: url(ok.webp);
+    background-image: url(ok7.jpg);
     background-position: center;
 }
+
  
