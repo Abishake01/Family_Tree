@@ -31,9 +31,9 @@ To access the website, you'll need the password provided for entry. Once you hav
 
 If you'd like to contribute to this project or report any issues, feel free to open a pull request or create an issue.
 
-## License
+## Link
 
-This project is licensed under the [MIT License](LICENSE).
+This project Link https://kodaikanal.vercel.app
 
 ---
 
