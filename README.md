@@ -24,8 +24,8 @@ To access the website, you'll need the password provided for entry. Once you hav
 
 ## Screenshots
 
-![Screenshot 1](/path/to/screenshot1.png)
-![Screenshot 2](/path/to/screenshot2.png)
+![Screenshot 1](Opening.png)
+![Screenshot 2](password.png)
 
 ## Contributing
 
