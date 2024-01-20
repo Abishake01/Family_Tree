@@ -24,12 +24,13 @@ To access the website, you'll need the password provided for entry. Once you hav
 
 ## Screenshots
 
-![Screenshot 1](Opening.png)
-![Screenshot 2](password.png)
+![Screenshot 1](password.png)
 
-## Contributing
 
-If you'd like to contribute to this project or report any issues, feel free to open a pull request or create an issue.
+<hr>
+
+
+![Screenshot 2](Opening.png)
 
 ## Link
 
@@ -37,4 +38,4 @@ This project Link https://kodaikanal.vercel.app
 
 ---
 
-Replace `/path/to/screenshot1.png` and `/path/to/screenshot2.png` with the actual paths or URLs of screenshots showcasing your website. You can also add more sections like "Installation Instructions" or "Usage" depending on what information you want to provide in your README.
+Replace `password.png` and `Opening.png`  with the actual paths or URLs of screenshots showcasing your website. You can also add more sections like "Installation Instructions" or "Usage" depending on what information you want to provide in your README.
